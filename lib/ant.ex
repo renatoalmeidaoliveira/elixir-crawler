@@ -1,0 +1,2 @@
+defmodule Ant do
+end
